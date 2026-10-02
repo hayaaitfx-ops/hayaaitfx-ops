@@ -6,7 +6,7 @@
 
 `PYTHON / TYPESCRIPT / JAVASCRIPT / HTML`
 
-<sub>ideias depois da meia-noite. código em construção.</sub>
+<sub>“In the beginning was the Word, and the Word was with God, and the Word was God. And the Word became flesh and became habituated among us...”</sub>
 
 </div>
 
