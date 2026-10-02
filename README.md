@@ -1,45 +1,47 @@
 <div align="center">
 
-# ✦ K N O T E N ✦
-### ideias em código · experiências na web · uma IA em construção
+# ⛧ K N O T E N ⛧
 
-`[ laboratório aberto • curiosidade em execução ]`
+`digital noise / late night builds / unfinished dreams`
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/hayaaitfx-ops/Aki)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-141018?style=for-the-badge&logo=python&logoColor=C084FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-141018?style=for-the-badge&logo=typescript&logoColor=C084FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-141018?style=for-the-badge&logo=javascript&logoColor=C084FC)
+![HTML](https://img.shields.io/badge/HTML-141018?style=for-the-badge&logo=html5&logoColor=C084FC)
+
+**────── ⋆ ☾ ⋆ ──────**
 
 </div>
 
----
+### 🕸️ sobre quem está atrás da tela
 
-### ⚡ Bem-vindo ao meu laboratório
-
-Sou **Knoten**. Por aqui, ideias viram projetos: de uma cartinha na web a uma inteligência artificial em desenvolvimento.
+Sou **Knoten**. Transformo ideias em código e deixo os experimentos por aqui.
+Uma IA em construção, uma cartinha na web e outros projetos.
 
 ```text
-knoten@lab:~$ status
-→ construindo: Aki
-→ explorando: experiências na web
-→ próximo passo: transformar mais ideias em código
+┌── knoten@midnight
+│
+├── building  → Aki
+├── mood      → fones no ouvido, editor aberto
+└── status    → work in progress_
 ```
 
-### 🧪 Experimentos em destaque
+### 🥀 arquivos do caos
 
-| Projeto | Dentro do laboratório |
+| Projeto | O que tem por aqui |
 | :--- | :--- |
-| [🤖 Aki](https://github.com/hayaaitfx-ops/Aki) | Uma IA que estou desenvolvendo com TypeScript. |
-| [💌 Cartinha](https://github.com/hayaaitfx-ops/Cartinha) | Uma cartinha feita em HTML. |
-| [📚 Site guia de estudos](https://github.com/hayaaitfx-ops/Site-guia-de-estudos) | Meu projeto de site para um guia de estudos. |
+| [⛧ Aki](https://github.com/hayaaitfx-ops/Aki) | Uma IA que estou desenvolvendo com TypeScript. |
+| [✉ Cartinha](https://github.com/hayaaitfx-ops/Cartinha) | Uma cartinha feita em HTML. |
+| [☾ Guia de estudos](https://github.com/hayaaitfx-ops/Site-guia-de-estudos) | Meu projeto de site para um guia de estudos. |
 
-### 🌐 Explore
-
-[Todos os repositórios ↗](https://github.com/hayaaitfx-ops?tab=repositories)
-
----
+<br>
 
 <div align="center">
 
-**✦ o laboratório continua em construção ✦**
+[explore os repositórios ↗](https://github.com/hayaaitfx-ops?tab=repositories)
+
+**────── ⋆ ☾ ⋆ ──────**
+
+<sub>algumas ideias só aparecem quando o mundo fica em silêncio.</sub>
 
 </div>
