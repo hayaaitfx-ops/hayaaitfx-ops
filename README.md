@@ -4,6 +4,12 @@
 
 <br>
 
+# ＫＮＯＴＥＮ
+
+<sub>somewhere between code & noise</sub>
+
+<br>
+
 `PYTHON / TYPESCRIPT / JAVASCRIPT / HTML`
 
 <sub>“In the beginning was the Word, and the Word was with God, and the Word was God. And the Word became flesh and became habituated among us...”</sub>
@@ -36,10 +42,10 @@ status       work in progress_
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-17151C?style=for-the-badge&logo=python&logoColor=C4B5D4)
-![TypeScript](https://img.shields.io/badge/TypeScript-17151C?style=for-the-badge&logo=typescript&logoColor=C4B5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-17151C?style=for-the-badge&logo=javascript&logoColor=C4B5D4)
-![HTML](https://img.shields.io/badge/HTML-17151C?style=for-the-badge&logo=html5&logoColor=C4B5D4)
+![Python](https://img.shields.io/badge/Python-17151C?style=for-the-badge&logo=python&logoColor=D6D6D6)
+![TypeScript](https://img.shields.io/badge/TypeScript-17151C?style=for-the-badge&logo=typescript&logoColor=D6D6D6)
+![JavaScript](https://img.shields.io/badge/JavaScript-17151C?style=for-the-badge&logo=javascript&logoColor=D6D6D6)
+![HTML](https://img.shields.io/badge/HTML-17151C?style=for-the-badge&logo=html5&logoColor=D6D6D6)
 
 <br>
 
@@ -51,7 +57,9 @@ status       work in progress_
 
 **────── ⋆ ☾ ⋆ ──────**
 
-<sub>quiet outside. loud inside.</sub>
+<sub><code>session ended. ideas still running_</code></sub>
 
 </div>
+
+
 
