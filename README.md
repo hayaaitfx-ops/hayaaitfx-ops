@@ -1,7 +1,5 @@
 ﻿<div align="center">
 
-<img src="assets/knoten-banner.png" alt="Knoten — visual identity" width="100%" />
-
 <br>
 
 <picture>
@@ -129,4 +127,5 @@ Organização por trilhas, acompanhamento de progresso, Pomodoro e flashcards, c
 <sub><code>session ended. ideas still running_</code></sub>
 
 </div>
+
 
