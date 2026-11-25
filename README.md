@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="assets/knoten-banner.png" alt="Duas mãos em uma composição escura com efeito de tela antiga" width="100%" />
+<img src="assets/knoten-banner.png" alt="Knoten — visual identity" width="100%" />
 
 <br>
 
@@ -10,21 +10,17 @@
   <img src="assets/title-polished-dark.svg" alt="KNOTEN" width="70%" />
 </picture>
 
-<p><code>somewhere between code &amp; noise</code></p>
+<p><code>software · ideas · experiments</code></p>
 
-<br>
-
-`PYTHON / TYPESCRIPT / JAVASCRIPT / HTML`
-
-</div>
-
-> `fragment.log`
->
-> In the beginning was the Word, and the Word was with God, and the Word was God. And the Word became flesh and became habituated among us...
-
-<div align="center">
+<p>
+  <a href="https://hayaaitfx-ops.github.io/still-alive/">Still Alive ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/hayaaitfx-ops?tab=repositories">All repositories ↗</a>
+</p>
 
 </div>
+
+> “The Word became flesh and dwelt among us.” — John 1:14
 
 <br>
 
@@ -34,35 +30,76 @@
   <img src="assets/identity-polished-dark.svg" alt="01 / identity" width="70%" />
 </picture>
 
-Sou **Knoten**. Transformo ideias em código: uma IA em desenvolvimento, uma cartinha na web e outros experimentos.
+Sou **Knoten**, desenvolvedor independente. Gosto de transformar ideias em projetos funcionais — de experiências visuais na web a ferramentas criativas e experimentos com inteligência artificial.
 
-```text
-knoten@midnight:~$ cat status.txt
+Este perfil reúne coisas que estou construindo, aprendendo e refinando. Nem tudo está terminado; a ideia é justamente mostrar o processo.
 
-building     Aki
-soundtrack   fones no ouvido
-status       work in progress_
-```
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experiments-polished-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/experiments-polished-light.svg" />
-  <img src="assets/experiments-polished-dark.svg" alt="02 / experiments" width="70%" />
+  <img src="assets/experiments-polished-dark.svg" alt="02 / selected projects" width="70%" />
 </picture>
 
-**[↳ study.log / Guia de estudos](https://github.com/hayaaitfx-ops/Site-guia-de-estudos)**
+### `01` — Still Alive
+**Um zine digital sobre continuar, mesmo quando tudo parece ruído.**
 
-<a href="https://github.com/hayaaitfx-ops/Site-guia-de-estudos"><img src="assets/study-preview.png" alt="Screenshot local do guia de estudos: painel com trilhas, progresso e Pomodoro" width="640" /></a>
+Experiência visual construída com textura, tipografia e atmosfera própria. O projeto também inclui um site complementar de pôster.
 
-Portal de estudos com trilhas, Pomodoro e flashcards; dados salvos no navegador.
+- [Abrir Still Alive ↗](https://hayaaitfx-ops.github.io/still-alive/)
+- [Explorar Poster Site ↗](https://hayaaitfx-ops.github.io/still-alive/poster-site/)
+- [Ver código-fonte ↗](https://github.com/hayaaitfx-ops/still-alive)
+
+`HTML · CSS · JavaScript`
+
+---
+
+### `02` — Nexo
+**Um espaço visual para conectar ideias e organizar projetos.**
+
+Mapa mental local com nós arrastáveis, conexões, notas, filtros, apresentação de ideias e backup em JSON. Sem conta ou servidor: os dados ficam no navegador.
+
+- [Ver projeto ↗](https://github.com/hayaaitfx-ops/Nexo)
+
+`JavaScript · HTML · CSS · IndexedDB`
+
+---
+
+### `03` — Aki
+**Um experimento pessoal com inteligência artificial.**
+
+Projeto em desenvolvimento, explorando possibilidades de criar uma experiência própria em torno de IA.
+
+- [Ver projeto ↗](https://github.com/hayaaitfx-ops/Aki)
+
+`TypeScript`
+
+---
+
+### `04` — Guia de Estudos
+**Um pequeno portal para transformar estudo em rotina.**
+
+Organização por trilhas, acompanhamento de progresso, Pomodoro e flashcards, com dados salvos localmente no navegador.
+
+<div align="center">
+  <a href="https://github.com/hayaaitfx-ops/Site-guia-de-estudos">
+    <img src="assets/study-preview.png" alt="Prévia do Guia de Estudos" width="85%" />
+  </a>
+  <br>
+  <a href="https://github.com/hayaaitfx-ops/Site-guia-de-estudos">Ver projeto ↗</a>
+</div>
+
 `JavaScript · HTML · CSS · localStorage`
 
-**[↳ aki.exe / Aki](https://github.com/hayaaitfx-ops/Aki)**
+---
 
-IA em desenvolvimento com interface de chat e histórico de conversas.
-`TypeScript · Next.js · React · Prisma`
+### `05` — Outros experimentos
 
-[↳ cartinha.html / um experimento em HTML](https://github.com/hayaaitfx-ops/Cartinha)
+- [Cartinha](https://github.com/hayaaitfx-ops/Cartinha) — um pequeno projeto pessoal para a web.
+- [miku-text](https://github.com/hayaaitfx-ops/miku-text) — experimento em HTML.
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-polished-dark.svg" />
@@ -73,24 +110,23 @@ IA em desenvolvimento com interface de chat e histórico de conversas.
 <div align="center">
 
 <p>
-<img src="assets/badge-python.svg" alt="Python" />
-<img src="assets/badge-typescript.svg" alt="TypeScript" />
-<img src="assets/badge-javascript.svg" alt="JavaScript" />
-<img src="assets/badge-html.svg" alt="HTML" />
+  <img src="assets/badge-python.svg" alt="Python" />
+  <img src="assets/badge-typescript.svg" alt="TypeScript" />
+  <img src="assets/badge-javascript.svg" alt="JavaScript" />
+  <img src="assets/badge-html.svg" alt="HTML" />
 </p>
 
 <br>
 
-<img src="assets/spider-web.png" alt="Aranha branca e teias vermelhas e brancas sobre fundo preto" width="40%" />
+<img src="assets/spider-web.png" alt="Aranha e teias em uma composição escura" width="40%" />
 
 <br>
 
-[explore os arquivos ↗](https://github.com/hayaaitfx-ops?tab=repositories)
+<a href="https://github.com/hayaaitfx-ops?tab=repositories">explore os repositórios ↗</a>
 
 **────── ⋆ ☾ ⋆ ──────**
 
 <sub><code>session ended. ideas still running_</code></sub>
 
 </div>
-
 
